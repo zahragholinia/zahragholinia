@@ -26,6 +26,9 @@ I enjoy helping my teammates become more confident in solving technical problems
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security">
+<img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Data">
+
 </p>
 
 ### Databases & Messaging
@@ -44,27 +47,23 @@ I enjoy helping my teammates become more confident in solving technical problems
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform">
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm">
 <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
 </p>
 
 ### Observability & Auth
 
 <p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana">
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white" alt="Keycloak">
-<img src="https://img.shields.io/badge/OIDC-000000?style=flat&logo=openid&logoColor=white" alt="OIDC">
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white" alt="ELK Stack">
 </p>
 
 ## 💼 Experience
 
-**Senior Software Engineer - Dotin** *(Mar 2022 – Present | Tehran, IR)*
+**Senior Software Engineer - Dotin** *(Mar 2022 – Present)*
 
 > Built and operated a large-scale microservice-based financial platform serving **10,000+ active corporate customers**. Took end-to-end ownership of backend features, improved performance through caching and concurrency, designed asynchronous processing with RabbitMQ, modernized legacy components, and contributed to testing, CI/CD, production support, and team mentoring.
 
-**Java Developer - Fanap Soft** *(Oct 2020 – Mar 2022 | Tehran, IR)*
+**Java Developer - Fanap Soft** *(Oct 2020 – Mar 2022)*
 
 > Developed secure and scalable REST APIs for an API marketplace using Java and Spring Boot. Built a banking SDK for enterprise integrations, implemented concurrent and asynchronous processing, and improved production observability through structured logging and Kibana-based troubleshooting.
 
